@@ -1,4 +1,4 @@
-`https://webprojectalae.gt.tc/`
+https://webprojectalae.gt.tc/
 
 # BookHub
 
